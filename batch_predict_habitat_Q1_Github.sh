@@ -4,7 +4,7 @@
 module load pytorch/2.7
 export HF_HOME="/blue/chamteutoh/huggingface"
 export TRANSFORMERS_CACHE="/blue/chamteutoh/huggingface"
-export HUGGING_FACE_HUB_TOKEN="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"
+export HUGGING_FACE_HUB_TOKEN=""
 
 # === PATH CONFIGURATION ===
 BASE_DIR="/blue/chamteutoh/Milton/water/16s/wf16s_results"
